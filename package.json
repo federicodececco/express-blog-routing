@@ -1,0 +1,23 @@
+{
+  "name": "express-blog-routing",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "watch":" node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/federicodececco/express-blog-routing.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/federicodececco/express-blog-routing/issues"
+  },
+  "homepage": "https://github.com/federicodececco/express-blog-routing#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
